@@ -7,7 +7,8 @@ import java.security.KeyStore;
 import java.util.HashMap;
 import java.util.Map;
 
-//Je viens de pmodifier quelques choses
+//MASENGO KALENGA FIDELE
+//MUKANJILA KALENGA MARIE
 /**
  * Client messagerie SSL/TLS avec interface graphique Swing.
  *
